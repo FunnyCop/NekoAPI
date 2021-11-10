@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Neko API</string>
+    <string name="category">Category</string>
+    <string name="enter">Enter</string>
+</resources>
